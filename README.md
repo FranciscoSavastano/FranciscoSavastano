@@ -2,7 +2,6 @@ Olá👋
 
 - Desenvolvedor Back-end
 - Entre em contato: fransavastanocp@gmail.com
-- Open to Work
 
 
 <div>
