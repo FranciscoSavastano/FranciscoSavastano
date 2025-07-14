@@ -1,26 +1,62 @@
-Olá👋
+# Olá! 👋 Eu sou Francisco Savastano
 
-- Desenvolvedor Back-end
-- Entre em contato: fransavastanocp@gmail.com
+**Desenvolvedor Back-end** especializado em TypeScript, Node.js e APIs escaláveis
 
+📧 **Contato:** fransavastanocp@gmail.com
 
-<div>
-  <a href="https://www.linkedin.com/in/franciscosavastano/">
+---
+
+## 🚀 Sobre mim
+Desenvolvedor back-end apaixonado por criar soluções robustas e escaláveis. Experiência com desenvolvimento de APIs, bancos de dados e arquiteturas modernas.
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+  <img alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img alt=".NET" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
+  <img alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img alt="Prisma" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
+  <img alt="Kotlin" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Francisco-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Francisco-Dotnet" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
-  <img align="center" alt="Francisco-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Francisco-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Francisco-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Francisco-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
+## 📊 GitHub Stats
 
-##
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FranciscoSavastano&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoSavastano&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-<div>
-  <a href = "mailto:fransavastanocp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/franciscosavastano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/5521936184109" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  
+## ⏱️ Tempo de Codificação (WakaTime)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=FranciscoSavastano&theme=dark" alt="WakaTime Stats" />
+</div>
+
+## 🔥 Streak Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=FranciscoSavastano&theme=dark" alt="GitHub Streak" />
+</div>
+
+## 📫 Conecte-se comigo
+
+<div align="center">
+  <a href="mailto:fransavastanocp@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/franciscosavastano/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://wa.me/5521936184109" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <i>💻 "Código limpo não é escrito seguindo regras. É escrito por programadores que se importam"</i>
 </div>
