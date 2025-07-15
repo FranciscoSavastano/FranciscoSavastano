@@ -35,8 +35,6 @@ Desenvolvedor back-end apaixonado por criar soluções robustas e escaláveis. E
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=FranciscoSavastano&theme=dark" alt="WakaTime Stats" />
 </div>
 
-## 🔥 Streak Stats
-
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=FranciscoSavastano&theme=dark" alt="GitHub Streak" />
 </div>
@@ -55,8 +53,3 @@ Desenvolvedor back-end apaixonado por criar soluções robustas e escaláveis. E
   </a>
 </div>
 
----
-
-<div align="center">
-  <i>💻 "Código limpo não é escrito seguindo regras. É escrito por programadores que se importam"</i>
-</div>
