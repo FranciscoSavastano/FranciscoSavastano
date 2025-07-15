@@ -22,14 +22,12 @@ Desenvolvedor back-end apaixonado por criar soluções robustas e escaláveis. E
   <img alt="Kotlin" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
 </div>
 
-## 📊 GitHub Stats
+## 📊 Estatísticas
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FranciscoSavastano&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoSavastano&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-## ⏱️ Tempo de Codificação (WakaTime)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=FranciscoSavastano&theme=dark" alt="WakaTime Stats" />
