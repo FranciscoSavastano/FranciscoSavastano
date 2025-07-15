@@ -32,7 +32,7 @@ Desenvolvedor back-end apaixonado por criar soluções robustas e escaláveis. E
 </div>
 
 <div align="center">
-  <figure><embed src="https://wakatime.com/share/@FranciscoSavastano/4cf8ebd5-b11c-420d-a310-029024b36822.svg"></embed></figure>
+  <img src="https://wakatime.com/share/@FranciscoSavastano/3915dad5-2b4b-46a5-80eb-abe392afdaad.png" />
 </div>
 
 <div align="center">
