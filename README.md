@@ -32,7 +32,7 @@ Desenvolvedor back-end apaixonado por criar soluções robustas e escaláveis. E
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=FranciscoSavastano&theme=dark" alt="WakaTime Stats" />
+  <figure><embed src="https://wakatime.com/share/@FranciscoSavastano/4cf8ebd5-b11c-420d-a310-029024b36822.svg"></embed></figure>
 </div>
 
 <div align="center">
