@@ -1,6 +1,6 @@
 # Olá! 👋 Eu sou Francisco Savastano
 
-**Desenvolvedor Back-end** especializado em TypeScript, Node.js e APIs escaláveis
+**Desenvolvedor Back-end** especializado em TypeScript, Node.js, GOLang e APIs escaláveis
 
 📧 **Contato:** fransavastanocp@gmail.com
 
