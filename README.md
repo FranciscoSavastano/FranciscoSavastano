@@ -27,8 +27,8 @@ Desenvolvedor back-end apaixonado por criar soluções robustas e escaláveis. E
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FranciscoSavastano&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoSavastano&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FranciscoSavastano&show_icons=true&theme=dark&include_all_commits=true&count_private=false&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoSavastano&layout=compact&langs_count=7&theme=dark&locale=pt-br"/>
 </div>
 
 <div align="center">
