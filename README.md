@@ -36,7 +36,7 @@ Desenvolvedor back-end apaixonado por criar soluções robustas e escaláveis. E
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=FranciscoSavastano&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=FranciscoSavastano&theme=dark&locale=pt_BR" alt="GitHub Streak" />
 </div>
 
 ## 📫 Conecte-se comigo
