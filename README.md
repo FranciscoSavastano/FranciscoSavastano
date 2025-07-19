@@ -1,6 +1,6 @@
 # Olá! 👋 Eu sou Francisco Savastano
 
-**Desenvolvedor Back-end/Fullstack** especializado em TypeScript, Node.js, GOLang, Svelte e APIs escaláveis
+**Desenvolvedor Back-end/Fullstack** especializado em TypeScript, Node.js, GOLang, Svelte e APIs escaláveis, estou trabalhando na aréa a mais de 2 anos.
 
 📧 **Contato:** fransavastanocp@gmail.com
 
