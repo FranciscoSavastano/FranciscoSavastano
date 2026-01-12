@@ -1,15 +1,15 @@
-# Olá! 👋 Eu sou Francisco Savastano
+# Olá! Eu sou Francisco Savastano
 
 **Desenvolvedor Back-end/Fullstack** especializado em TypeScript, Node.js, GOLang, Svelte e APIs escaláveis, estou trabalhando na aréa a mais de 2 anos.
 
-📧 **Contato:** fransavastanocp@gmail.com
+**Contato:** fransavastanocp@gmail.com
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 Desenvolvedor back-end apaixonado por criar soluções robustas e escaláveis. Experiência com desenvolvimento de APIs, bancos de dados e arquiteturas modernas.
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <div align="center">
   <img alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
@@ -24,7 +24,7 @@ Desenvolvedor back-end apaixonado por criar soluções robustas e escaláveis. E
   <img alt="Kotlin" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/>
 </div>
 
-## 📊 Estatísticas
+## Estatísticas
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FranciscoSavastano&show_icons=true&theme=dark&include_all_commits=true&count_private=false&locale=pt-br"/>
@@ -39,7 +39,7 @@ Desenvolvedor back-end apaixonado por criar soluções robustas e escaláveis. E
   <img src="https://streak-stats.demolab.com/?user=FranciscoSavastano&theme=dark&locale=pt_BR" alt="GitHub Streak" />
 </div>
 
-## 📫 Conecte-se comigo
+## Conecte-se comigo
 
 <div align="center">
   <a href="mailto:fransavastanocp@gmail.com">
